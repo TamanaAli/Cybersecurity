@@ -1,4 +1,3 @@
 # Cybersecurity
-Projects
-[link](https://github.com/TamanaAli/Projects/actions)
+[Projects](https://github.com/TamanaAli/Projects/actions)
 
