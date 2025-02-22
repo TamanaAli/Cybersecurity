@@ -1,3 +1,2 @@
 # Cybersecurity
-[Projects](https://github.com/TamanaAli/Projects/actions)
-
+mkdir path/to/your/Projects
